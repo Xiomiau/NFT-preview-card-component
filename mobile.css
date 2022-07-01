@@ -1,3 +1,4 @@
+
 :root{
 
 --Soft-blue: hsl(215, 51%, 70%);
@@ -10,6 +11,7 @@
 }
 
 body{
+    padding: 3rem 1rem;
     background-color: var(--Very-dark-blue1)
 }
 .container{
@@ -18,7 +20,7 @@ body{
     display: flex;
     flex-direction: column;
     background-color: var(--Very-dark-blue2);
-    margin: 3rem 1rem;
+    
 }
 
 .eq{
@@ -101,4 +103,5 @@ body{
     font-family: 'Outfit', sans-serif;
     color: var(--White);
 }
+
 
