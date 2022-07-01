@@ -9,7 +9,23 @@
 --White: hsl(0, 0%, 100%);
 }
 
-
+body{
+    background-color: var(--Very-dark-blue1)
+}
+.container{
+    padding: 1.5rem;
+    border-radius: 1rem;
+    display: flex;
+    flex-direction: column;
+    background-color: var(--Very-dark-blue2);
+    margin: 1rem;
+}
+.img-container{
+}
+.eq{
+    width: 100%;
+    border-radius: .5rem;
+}
 
 
 .attribution { 
