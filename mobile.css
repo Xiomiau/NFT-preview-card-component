@@ -14,13 +14,12 @@ body{
     padding: 3rem 1rem;
     background-color: var(--Very-dark-blue1)
 }
+
+
 .container{
     padding: 1.5rem;
     border-radius: 1rem;
-    display: flex;
-    flex-direction: column;
     background-color: var(--Very-dark-blue2);
-    
 }
 
 .eq{
@@ -61,7 +60,6 @@ body{
 }
 .eth-container img{
     margin-right: 10px;
-    object-fit:none;
 }
 
 .time{
